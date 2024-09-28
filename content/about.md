@@ -39,4 +39,3 @@ Por que escolhi essa área? Além de minha paixão por jogos, sempre acreditei n
 
 ![João Otávio Zuliani Andreotti](/fotoo.png)
 
-wi
