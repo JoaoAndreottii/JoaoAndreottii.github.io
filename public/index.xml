@@ -17,10 +17,9 @@
 &lt;h2 id=&#34;carrossel-de-imagens&#34;&gt;Carrossel de Imagens&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;em&gt;Captura de tela do jogo de parkour em ação.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;projeto-treino-de-academia&#34;&gt;Projeto: Treino de Academia&lt;/h3&gt;
-&lt;h3 id=&#34;projeto-painel-de-login&#34;&gt;Projeto: Painel de Login&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Interface do painel de login desenvolvido para sites.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;Captura de tela do jogo de parkour em ação.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚙️ Meus Projetos</title>
@@ -30,13 +29,6 @@
       <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;
 &lt;p&gt;Meus Projetos em Computação
 Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sobre mim</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 15 Sep 2024 17:36:07 +1200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;⚙️ Meu nome é João Otávio Zuliani Andreotti e sou estudante de Ciências da Computação na PUC-PR, campus Curitiba. Atualmente, estou no primeiro ano, segundo semestre, explorando o universo fascinante da tecnologia e inovação. Desde jovem, sempre fui apaixonado por jogos e criei servidores personalizados para a galera jogar. Foi nessa experiência que percebi o quanto a programação pode ser poderosa e transformadora, despertando em mim um forte interesse por desenvolvimento de software.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
