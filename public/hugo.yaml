@@ -62,7 +62,6 @@ menu:
     - name: Minhas Skills
       url: /skills/
       weight: 50
-    # Outros itens...
 
 
 outputs:

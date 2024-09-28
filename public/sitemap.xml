@@ -2,30 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fotos_do_projeto/</loc>
+    <loc>https://JoaoAndreottii.github.io/posts/fotos_do_projeto/</loc>
     <lastmod>2024-09-28T10:42:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/000-my-first-post/</loc>
+    <loc>https://JoaoAndreottii.github.io/posts/images/000-my-first-post/</loc>
     <lastmod>2024-09-28T10:42:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/skills/</loc>
+    <loc>https://JoaoAndreottii.github.io/skills/skills/</loc>
     <lastmod>2024-09-28T10:42:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/skills/skills/</loc>
+    <loc>https://JoaoAndreottii.github.io/</loc>
     <lastmod>2024-09-28T10:42:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://JoaoAndreottii.github.io/posts/</loc>
     <lastmod>2024-09-28T10:42:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://JoaoAndreottii.github.io/skills/</loc>
+    <lastmod>2024-09-28T10:42:24-03:00</lastmod>
+  </url><url>
+    <loc>https://JoaoAndreottii.github.io/posts/about/</loc>
     <lastmod>2024-09-15T17:36:07+12:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://JoaoAndreottii.github.io/posts/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://JoaoAndreottii.github.io/skills/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/tags/</loc>
+    <loc>https://JoaoAndreottii.github.io/posts/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://JoaoAndreottii.github.io/tags/tags/</loc>
+  </url><url>
+    <loc>https://JoaoAndreottii.github.io/tags/</loc>
   </url>
 </urlset>

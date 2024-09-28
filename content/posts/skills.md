@@ -1,7 +1,10 @@
 ---
 title: "Minhas Skills"
 url: /skills/
+layout: "skills" # is necessary
+summary: "skills"
 ---
+
 
 
 

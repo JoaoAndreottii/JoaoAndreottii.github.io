@@ -43,22 +43,22 @@ menu:
   main:
     - identifier: about
       name: Sobre
-      url: https://joaoandreottii.github.io/about/
+      url: /about/
       weight: 10
     - identifier: archive
       name: Arquivos
-      url: https://joaoandreottii.github.io/about/Archives/
+      url: /archive/
       weight: 20
     - identifier: tags
       name: Tags
-      url: https://joaoandreottii.github.io/about/tags/
+      url: /tags/
       weight: 30
     - identifier: search
       name: Procurar
-      url: https://joaoandreottii.github.io/about/search/
+      url: /search/
       weight: 40
-    - name: "Minhas Skills"
-      url: https://joaoandreottii.github.io/skills/
+    - name: Minhas Skills
+      url: /skills/
       weight: 50
 
 # Disabling the Table of Contents (TOC)
