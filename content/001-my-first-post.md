@@ -1,8 +1,8 @@
----
++++
 title: "⚙️Minhas Skills"
 date: 2024-09-28T00:00:00Z
 draft: false
----
++++
 
 ### Minhas Habilidades
 
