@@ -20,6 +20,7 @@ draft = false
 
 
 ## Projeto: Tela de Login
+"[Imagem da Tela de Login](/images/)
 
 
 ### Imagem do Projeto
@@ -35,5 +36,5 @@ draft = false
 
 
 
-[Meus Projetos](000-my-first-post.md#Meus-Projetos)
+[Meus Projetos](/posts/000-my-first-post/)
 
