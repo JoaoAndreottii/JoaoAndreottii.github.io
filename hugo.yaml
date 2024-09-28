@@ -67,3 +67,10 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+
+    menu:
+  main:
+    - name: "Minhas Skills"
+      url: "/minhas-skills/"
+      weight: 2
+
