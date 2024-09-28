@@ -9,32 +9,27 @@ taxonomies:
 params:
   homeInfoParams:
     Title: Portfolio de João Andreotti!
-    Content: Bem vindos ao meu site,onde compartilho meus projetos!,Criei este site para compartilhar minhas aulas de programação, então hoje foi um dia em que pude aprender o framework Hugo, que apliquei neste blog com a ajuda do tema PaperMod.
+    Content: Bem vindos ao meu site, onde compartilho meus projetos! Criei este site para compartilhar minhas aulas de programação, então hoje foi um dia em que pude aprender o framework Hugo, que apliquei neste blog com a ajuda do tema PaperMod.
 
-  
   socialIcons:
   - name: github
     url: 'https://github.com/joaoandreottii'
   - name: youtube
-    url: 'https://www.youtube.com/
+    url: 'https://www.youtube.com/JoaoAndreotti'
   - name: twitter
-    url: 'https://twitter.com/
+    url: 'https://twitter.com/JoaoAndreotti'
   - name: instagram
-    url: 'https://www.instagram.com/joaozandreotti  '
+    url: 'https://www.instagram.com/joaozandreotti'
   - name: other
     url:  'https://linktr.ee/JoaoAndreottii'
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "/favicon.ico.ico"
-    favicon16x16: "/favicon-16x16.ico.ico"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.ico"
     favicon32x32: "/favicon-32x32.ico"
     apple_touch_icon: "/apple-touch-icon.ico"
     safari_pinned_tab: "/favicon-16x16.ico"
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -63,7 +58,6 @@ menu:
       url: /search/
       weight: 40
 
-# For search: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 outputs:
   home:
     - HTML
