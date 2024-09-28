@@ -16,9 +16,9 @@ params:
   - name: github
     url: 'https://github.com/joaoandreottii'
   - name: youtube
-    url: 'https://www.youtube.com/[Seu nome]'
+    url: 'https://www.youtube.com/JoaoAndreotti'
   - name: twitter
-    url: 'https://twitter.com/[Seu nome]'
+    url: 'https://twitter.com/a'
   - name: instagram
     url: 'https://www.instagram.com/joaozandreotti  '
   - name: other
