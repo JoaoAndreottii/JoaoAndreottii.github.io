@@ -2,14 +2,14 @@
 title: "Sobre mim"
 author: "João Andreotti"
 date: 2024-09-15T17:36:07+12:00
-showToc: true
+showToc: false  # Desative a Tabela de Conteúdos se já estiver desativada no YAML
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
 description: "Página sobre João Otávio Zuliani Andreotti"
 canonicalURL: "https://joaoandreottii.github.io/about/"
-disableHLJS: false # correto, para ativar ou desativar highlightjs
+disableHLJS: false
 disableShare: true
 hideSummary: true
 searchHidden: false
@@ -18,13 +18,15 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false  # Certifique-se de que a Tabela de Conteúdos está desativada
 cover:
     alt: "João Otávio Zuliani Andreotti"
-    caption: "João Otávio Zuliani Andreotti" # legenda opcional
+    caption: "João Otávio Zuliani Andreotti"
     relative: false
-    hidden: false # defini para exibir a imagem de capa
+    hidden: false
 ---
+
+## Minha História
 
 ⚙️ Meu nome é João Otávio Zuliani Andreotti e sou estudante de Ciências da Computação na PUC-PR, campus Curitiba. Atualmente, estou no primeiro ano, segundo semestre, explorando o universo fascinante da tecnologia e inovação. Desde jovem, sempre fui apaixonado por jogos e criei servidores personalizados para a galera jogar. Foi nessa experiência que percebi o quanto a programação pode ser poderosa e transformadora, despertando em mim um forte interesse por desenvolvimento de software.
 
@@ -33,6 +35,5 @@ Minha paixão por criar soluções criativas tem crescido a cada novo desafio. U
 Neste portfólio, você encontrará uma coleção de projetos e experiências que refletem minha jornada acadêmica e meu compromisso com o aprendizado contínuo. Cada desafio é uma oportunidade de crescimento, e estou ansioso para compartilhar meu progresso e conquistas com você.
 
 Por que escolhi essa área? Além de minha paixão por jogos, sempre acreditei no poder da tecnologia para transformar e melhorar a vida das pessoas. A Ciência da Computação me oferece o caminho perfeito para explorar ideias e materializar soluções que possam impactar positivamente o mundo. No futuro, almejo trabalhar no desenvolvimento de plataformas inovadoras que facilitem a vida cotidiana e, quem sabe, até criar meu próprio negócio na área de tecnologia.
-
 
 ![João Otávio Zuliani Andreotti](/fotoo.png)

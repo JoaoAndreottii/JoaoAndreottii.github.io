@@ -12,16 +12,16 @@ params:
     Content: Bem vindos ao meu site, onde compartilho meus projetos! Criei este site para compartilhar minhas aulas de programação, então hoje foi um dia em que pude aprender o framework Hugo, que apliquei neste blog com a ajuda do tema PaperMod.
 
   socialIcons:
-    - name: github
-      url: 'https://github.com/joaoandreottii'
-    - name: youtube
-      url: 'https://www.youtube.com/JoaoAndreotti'
-    - name: twitter
-      url: 'https://twitter.com/JoaoAndreotti'
-    - name: instagram
-      url: 'https://www.instagram.com/joaozandreotti'
-    - name: other
-      url: 'https://linktr.ee/JoaoAndreottii'
+  - name: github
+    url: 'https://github.com/joaoandreottii'
+  - name: youtube
+    url: 'https://www.youtube.com/JoaoAndreotti'
+  - name: twitter
+    url: 'https://twitter.com/JoaoAndreotti'
+  - name: instagram
+    url: 'https://www.instagram.com/joaozandreotti'
+  - name: other
+    url:  'https://linktr.ee/JoaoAndreottii'
 
   assets:
     favicon: "/favicon.ico"
@@ -38,8 +38,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
-  disableTableOfContents: true  # Desativa a Tabela de Conteúdos
 
 menu:
   main:
@@ -60,8 +58,12 @@ menu:
       url: /search/
       weight: 40
 
+# Disabling the Table of Contents (TOC)
+disableTableOfContents: true
+
+# Keep the default outputs for the home page
 outputs:
   home:
     - HTML
     - RSS
-    - JSON  # é necessário
+    - JSON # is necessary
