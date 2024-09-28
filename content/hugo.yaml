@@ -45,25 +45,23 @@ menu:
   main:
     - identifier: about
       name: Sobre
-      url: /about/
+      url: https://joaoandreottii.github.io/about/
       weight: 10
     - identifier: archive
       name: Arquivos
-      url: /archive/
+      url: https://joaoandreottii.github.io/archive/
       weight: 20
     - identifier: tags
       name: Tags
-      url: /tags/
+      url: https://joaoandreottii.github.io/tags/
       weight: 30
     - identifier: search
       name: Procurar
-      url: /search/
+      url: https://joaoandreottii.github.io/search/
       weight: 40
     - name: Minhas Skills
-      url: /skills/
+      url: https://joaoandreottii.github.io/posts/skills/
       weight: 50
-    # Outros itens...
-
 
 outputs:
   home:
