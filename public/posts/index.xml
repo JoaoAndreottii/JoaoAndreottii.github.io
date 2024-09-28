@@ -14,30 +14,14 @@
       <link>https://joaoandreottii.github.io/posts/fotos_do_projeto/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
       <guid>https://joaoandreottii.github.io/posts/fotos_do_projeto/</guid>
-      <description><![CDATA[<h2 id="projeto-jogo-de-parkour">Projeto: Jogo de Parkour</h2>
+      <description><![CDATA[<h3 id="projeto-jogo-de-parkour">Projeto: Jogo de Parkour</h3>
 <h3 id="imagens-dos-projetos">Imagens dos Projetos</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/1%20fase.png" alt="Imagem 1" />
-<img loading="lazy" src="https://joaoandreottii.github.io/images/2%20fase.png" alt="Imagem 2" />
-<img loading="lazy" src="https://joaoandreottii.github.io/images/3%20fase.png" alt="Imagem 3" /></p>
-<h2 id="projeto-treino-de-academia">Projeto: Treino de Academia</h2>
-<h3 id="imagem-do-projeto">Imagem Do Projeto</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/treino.png" alt="Imagem do Treino" /></p>
-<h2 id="projeto-tela-de-login">Projeto: Tela de Login</h2>
-<h3 id="imagem-do-projeto-1">Imagem do Projeto</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/login.png" alt="Imagem da Tela de Login" /></p>
-<p><a href="https://joaoandreottii.github.io/posts/000-my-first-post/">Meus Projetos</a></p>]]></description>
-      <content:encoded><![CDATA[<h2 id="projeto-jogo-de-parkour">Projeto: Jogo de Parkour</h2>
+<h3 id="projeto-treino-de-academia">Projeto: Treino de Academia</h3>
+<h3 id="projeto-tela-de-login">Projeto: Tela de Login</h3>]]></description>
+      <content:encoded><![CDATA[<h3 id="projeto-jogo-de-parkour">Projeto: Jogo de Parkour</h3>
 <h3 id="imagens-dos-projetos">Imagens dos Projetos</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/1%20fase.png" alt="Imagem 1" />
-<img loading="lazy" src="https://joaoandreottii.github.io/images/2%20fase.png" alt="Imagem 2" />
-<img loading="lazy" src="https://joaoandreottii.github.io/images/3%20fase.png" alt="Imagem 3" /></p>
-<h2 id="projeto-treino-de-academia">Projeto: Treino de Academia</h2>
-<h3 id="imagem-do-projeto">Imagem Do Projeto</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/treino.png" alt="Imagem do Treino" /></p>
-<h2 id="projeto-tela-de-login">Projeto: Tela de Login</h2>
-<h3 id="imagem-do-projeto-1">Imagem do Projeto</h3>
-<p><img loading="lazy" src="https://joaoandreottii.github.io/images/login.png" alt="Imagem da Tela de Login" /></p>
-<p><a href="https://joaoandreottii.github.io/posts/000-my-first-post/">Meus Projetos</a></p>]]></content:encoded>
+<h3 id="projeto-treino-de-academia">Projeto: Treino de Academia</h3>
+<h3 id="projeto-tela-de-login">Projeto: Tela de Login</h3>]]></content:encoded>
     </item>
     
     <item>
@@ -45,12 +29,8 @@
       <link>https://joaoandreottii.github.io/posts/000-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
       <guid>https://joaoandreottii.github.io/posts/000-my-first-post/</guid>
-      <description><![CDATA[<h2 id="meus-projetos-em-computação">Meus Projetos em Computação</h2>
-<p>Meus Projetos em Computação</p>
-<p>Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.</p>]]></description>
-      <content:encoded><![CDATA[<h2 id="meus-projetos-em-computação">Meus Projetos em Computação</h2>
-<p>Meus Projetos em Computação</p>
-<p>Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.</p>]]></content:encoded>
+      <description><![CDATA[<h3 id="meus-projetos-em-computação">Meus Projetos em Computação</h3>]]></description>
+      <content:encoded><![CDATA[<h3 id="meus-projetos-em-computação">Meus Projetos em Computação</h3>]]></content:encoded>
     </item>
     
     <item>
@@ -58,8 +38,9 @@
       <link>https://joaoandreottii.github.io/posts/001-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
       <guid>https://joaoandreottii.github.io/posts/001-my-first-post/</guid>
-      <description><![CDATA[<h3 id="minhas-habilidades">Minhas Habilidades</h3>
-<p>Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.</p>
-<p>Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.</p>]]></description>
-      <content:encoded><![CDATA[<h3 id="minhas-habilidades">Minhas Habilidades</h3>
-<p>Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimen
+      <description><![CDATA[<h3 id="minhas-habilidades">Minhas Habilidades</h3>]]></description>
+      <content:encoded><![CDATA[<h3 id="minhas-habilidades">Minhas Habilidades</h3>]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
