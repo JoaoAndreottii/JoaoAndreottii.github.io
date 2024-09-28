@@ -4,9 +4,10 @@ date = 2024-09-28T10:42:24-03:00
 draft = false
 +++
 
-### Projeto: MyFreshWebsite
+### Projeto: Jogo de Parkour
 ![Site com Papermode](/images/1%20fase.png)  
-*Exemplo da interface do site MyFreshWebsite desenvolvida com o framework Papermode.*
+![Site com Papermode](/images/2%20fase.png)  
+*Captura de tela do jogo de parkour em ação.*
 
 ### Projeto: Jogo de Parkour
 ![Jogo de Parkour](/images/2%20fase.png)  
