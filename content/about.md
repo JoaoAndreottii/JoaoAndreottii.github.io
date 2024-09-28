@@ -2,6 +2,9 @@
 baseURL: https://JoaoAndreottii.github.io/
 title: "Sobre mim"
 author: "João Andreotti"
+[Sobre](about/)
+[Arquivos](archive/)
+[Tags](tags/)
 date: 2024-09-15T17:36:07+12:00
 showToc: false  # Desative a Tabela de Conteúdos se já estiver desativada no YAML
 TocOpen: false
