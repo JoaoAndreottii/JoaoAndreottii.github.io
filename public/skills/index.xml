@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Skills on João Andreotti</title>
-    <link>https://JoaoAndreottii.github.io/skills/</link>
+    <link>http://localhost:1313/skills/</link>
     <description>Recent content in Skills on João Andreotti</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 10:42:24 -0300</lastBuildDate>
-    <atom:link href="https://JoaoAndreottii.github.io/skills/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>⚙️Minhas Skills</title>
-      <link>https://JoaoAndreottii.github.io/skills/skills/</link>
+      <link>http://localhost:1313/skills/skills/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>https://JoaoAndreottii.github.io/skills/skills/</guid>
+      <guid>http://localhost:1313/skills/skills/</guid>
       <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
 &lt;h2 id=&#34;ao-longo-dos-últimos-anos-tenho-me-dedicado-ao-desenvolvimento-de-habilidades-em-várias-áreas-tanto-acadêmicas-quanto-profissionais-atualmente-sou-estudante-de-ciências-da-computação-na-puc-pr-o-que-tem-me-proporcionado-uma-base-sólida-nas-áreas-de-programação-algoritmos-e-desenvolvimento-de-software-além-disso-faço-cursos-online-de-programação-onde-ampliei-meu-conhecimento-e-explorei-novas-tecnologias&#34;&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/h2&gt;
 &lt;h2 id=&#34;um-dos-meus-principais-diferenciais-é-meu-conhecimento-em-linguagens-de-programação-como-python-c-html-e-css-que-utilizo-para-criar-soluções-criativas-e-funcionais-essas-linguagens-são-as-bases-para-meus-projetos-tanto-acadêmicos-quanto-pessoais-e-me-permitem-aplicar-conceitos-de-lógica-de-programação-estrutura-de-dados-e-design-de-interfaces&#34;&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/h2&gt;

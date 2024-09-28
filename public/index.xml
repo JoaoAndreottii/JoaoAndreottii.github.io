@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>João Andreotti</title>
-    <link>https://JoaoAndreottii.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on João Andreotti</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 10:42:24 -0300</lastBuildDate>
-    <atom:link href="https://JoaoAndreottii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>⚙️ Fotos do Projeto</title>
-      <link>https://JoaoAndreottii.github.io/posts/fotos_do_projeto/</link>
+      <link>http://localhost:1313/posts/fotos_do_projeto/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>https://JoaoAndreottii.github.io/posts/fotos_do_projeto/</guid>
+      <guid>http://localhost:1313/posts/fotos_do_projeto/</guid>
       <description>&lt;h2 id=&#34;projeto-jogo-de-parkour&#34;&gt;Projeto: Jogo de Parkour&lt;/h2&gt;
 &lt;h3 id=&#34;imagens-dos-projetos&#34;&gt;Imagens dos Projetos&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://JoaoAndreottii.github.io/images/1%20fase.png&#34; alt=&#34;Imagem 1&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/1%20fase.png&#34; alt=&#34;Imagem 1&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;https://JoaoAndreottii.github.io/images/2%20fase.png&#34; alt=&#34;Imagem 2&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/2%20fase.png&#34; alt=&#34;Imagem 2&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;https://JoaoAndreottii.github.io/images/3%20fase.png&#34; alt=&#34;Imagem 3&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/3%20fase.png&#34; alt=&#34;Imagem 3&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;projeto-treino-de-academia&#34;&gt;Projeto: Treino de Academia&lt;/h2&gt;
 &lt;h3 id=&#34;imagem-do-projeto&#34;&gt;Imagem Do Projeto&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://JoaoAndreottii.github.io/images/treino.png&#34; alt=&#34;Imagem do Treino&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/treino.png&#34; alt=&#34;Imagem do Treino&#34;  /&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;projeto-tela-de-login&#34;&gt;Projeto: Tela de Login&lt;/h2&gt;
 &lt;h3 id=&#34;imagem-do-projeto-1&#34;&gt;Imagem do Projeto&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://JoaoAndreottii.github.io/images/login.png&#34; alt=&#34;Imagem da Tela de Login&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/login.png&#34; alt=&#34;Imagem da Tela de Login&#34;  /&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://JoaoAndreottii.github.io/posts/000-my-first-post/&#34;&gt;Meus Projetos&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/000-my-first-post/&#34;&gt;Meus Projetos&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚙️Meus Projetos</title>
-      <link>https://JoaoAndreottii.github.io/posts/images/000-my-first-post/</link>
+      <link>http://localhost:1313/posts/images/000-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>https://JoaoAndreottii.github.io/posts/images/000-my-first-post/</guid>
+      <guid>http://localhost:1313/posts/images/000-my-first-post/</guid>
       <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;
 &lt;p&gt;Meus Projetos em Computação&lt;/p&gt;
 &lt;p&gt;Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚙️Minhas Skills</title>
-      <link>https://JoaoAndreottii.github.io/skills/skills/</link>
+      <link>http://localhost:1313/skills/skills/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>https://JoaoAndreottii.github.io/skills/skills/</guid>
+      <guid>http://localhost:1313/skills/skills/</guid>
       <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
 &lt;h2 id=&#34;ao-longo-dos-últimos-anos-tenho-me-dedicado-ao-desenvolvimento-de-habilidades-em-várias-áreas-tanto-acadêmicas-quanto-profissionais-atualmente-sou-estudante-de-ciências-da-computação-na-puc-pr-o-que-tem-me-proporcionado-uma-base-sólida-nas-áreas-de-programação-algoritmos-e-desenvolvimento-de-software-além-disso-faço-cursos-online-de-programação-onde-ampliei-meu-conhecimento-e-explorei-novas-tecnologias&#34;&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/h2&gt;
 &lt;h2 id=&#34;um-dos-meus-principais-diferenciais-é-meu-conhecimento-em-linguagens-de-programação-como-python-c-html-e-css-que-utilizo-para-criar-soluções-criativas-e-funcionais-essas-linguagens-são-as-bases-para-meus-projetos-tanto-acadêmicos-quanto-pessoais-e-me-permitem-aplicar-conceitos-de-lógica-de-programação-estrutura-de-dados-e-design-de-interfaces&#34;&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/h2&gt;
@@ -54,19 +54,26 @@
     </item>
     <item>
       <title>Sobre mim</title>
-      <link>https://JoaoAndreottii.github.io/posts/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Sun, 15 Sep 2024 17:36:07 +1200</pubDate>
-      <guid>https://JoaoAndreottii.github.io/posts/about/</guid>
+      <guid>http://localhost:1313/posts/about/</guid>
       <description>Página sobre João Otávio Zuliani Andreotti</description>
     </item>
     <item>
       <title>Minhas Skills</title>
-      <link>https://JoaoAndreottii.github.io/skills/</link>
+      <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://JoaoAndreottii.github.io/skills/</guid>
+      <guid>http://localhost:1313/skills/</guid>
       <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
 &lt;p&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/p&gt;
 &lt;p&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minhas Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>skills</description>
     </item>
   </channel>
 </rss>
