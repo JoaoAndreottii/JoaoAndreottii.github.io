@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>⚙️Minhas Skills</title>
-      <link>http://localhost:1313/posts/001-my-first-post/</link>
+      <link>http://localhost:1313/posts/skills/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>http://localhost:1313/posts/001-my-first-post/</guid>
+      <guid>http://localhost:1313/posts/skills/</guid>
       <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
 &lt;p&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/p&gt;
 &lt;p&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/p&gt;</description>
@@ -55,13 +55,6 @@
       <pubDate>Sun, 15 Sep 2024 17:36:07 +1200</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Página sobre João Otávio Zuliani Andreotti</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/skills/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
