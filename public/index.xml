@@ -41,7 +41,16 @@
 &lt;p&gt;Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>⚙️Minhas Skills</title>
+      <title>⚙️Meus Projetos</title>
+      <link>http://localhost:1313/skills/000-my-first-post/</link>
+      <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
+      <guid>http://localhost:1313/skills/000-my-first-post/</guid>
+      <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;
+&lt;p&gt;Meus Projetos em Computação&lt;/p&gt;
+&lt;p&gt;Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ssasd</title>
       <link>http://localhost:1313/skills/skills/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
       <guid>http://localhost:1313/skills/skills/</guid>
@@ -65,8 +74,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
       <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
-&lt;p&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/p&gt;
-&lt;p&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/p&gt;</description>
+&lt;h2 id=&#34;ao-longo-dos-últimos-anos-tenho-me-dedicado-ao-desenvolvimento-de-habilidades-em-várias-áreas-tanto-acadêmicas-quanto-profissionais-atualmente-sou-estudante-de-ciências-da-computação-na-puc-pr-o-que-tem-me-proporcionado-uma-base-sólida-nas-áreas-de-programação-algoritmos-e-desenvolvimento-de-software-além-disso-faço-cursos-online-de-programação-onde-ampliei-meu-conhecimento-e-explorei-novas-tecnologias&#34;&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/h2&gt;
+&lt;h2 id=&#34;um-dos-meus-principais-diferenciais-é-meu-conhecimento-em-linguagens-de-programação-como-python-c-html-e-css-que-utilizo-para-criar-soluções-criativas-e-funcionais-essas-linguagens-são-as-bases-para-meus-projetos-tanto-acadêmicos-quanto-pessoais-e-me-permitem-aplicar-conceitos-de-lógica-de-programação-estrutura-de-dados-e-design-de-interfaces&#34;&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/h2&gt;
+&lt;h2 id=&#34;além-da-área-técnica-também-tenho-me-dedicado-ao-estudo-de-inglês-um-idioma-essencial-para-a-área-de-tecnologia-atualmente-estou-cursando-inglês-intermediário-na-yázigi-o-que-tem-me-permitido-entender-materiais-técnicos-me-comunicar-com-profissionais-ao-redor-do-mundo-e-acessar-conteúdos-mais-avançados-de-desenvolvimento-de-software&#34;&gt;Além da área técnica, também tenho me dedicado ao estudo de inglês, um idioma essencial para a área de tecnologia. Atualmente, estou cursando inglês intermediário na Yázigi, o que tem me permitido entender materiais técnicos, me comunicar com profissionais ao redor do mundo e acessar conteúdos mais avançados de desenvolvimento de software.&lt;/h2&gt;
+&lt;h2 id=&#34;com-o-compromisso-de-continuar-aprendendo-e-me-aperfeiçoando-sigo-em-busca-de-novas-oportunidades-para-aplicar-meus-conhecimentos-e-crescer-como-desenvolvedor&#34;&gt;Com o compromisso de continuar aprendendo e me aperfeiçoando, sigo em busca de novas oportunidades para aplicar meus conhecimentos e crescer como desenvolvedor.&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Minhas Skills</title>

@@ -1,12 +1,8 @@
 ---
-title: "Minhas Skills"
-url: /skills/
-layout: "skills" # is necessary
-summary: "skills"
+title: "⚙️ssasd"
+date: 2024-09-28T10:42:24-03:00
+draft: false
 ---
-
-
-
 
 ### Minhas Habilidades
 
@@ -17,3 +13,4 @@ summary: "skills"
 ## Além da área técnica, também tenho me dedicado ao estudo de inglês, um idioma essencial para a área de tecnologia. Atualmente, estou cursando inglês intermediário na Yázigi, o que tem me permitido entender materiais técnicos, me comunicar com profissionais ao redor do mundo e acessar conteúdos mais avançados de desenvolvimento de software.
 
 ## Com o compromisso de continuar aprendendo e me aperfeiçoando, sigo em busca de novas oportunidades para aplicar meus conhecimentos e crescer como desenvolvedor.
+[Meus Projetos](./000-my-first-post.md)
