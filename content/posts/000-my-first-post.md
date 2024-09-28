@@ -17,3 +17,4 @@ Por último, criei um painel de login para sites. Este painel foi projetado com 
 Além disso, montei uma tabela de treino para ajudar uma amiga a acompanhar seu progresso em seus exercícios, organizando uma margem para incluir imagens que ilustram melhor as etapas e resultados dos trabalhos dela.
 
 Sinta-se à vontade para fazer mais ajustes ou incluir as imagens conforme necessário!
+
