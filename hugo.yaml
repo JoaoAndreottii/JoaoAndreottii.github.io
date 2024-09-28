@@ -57,6 +57,9 @@ menu:
       name: Procurar
       url: https://joaoandreottii.github.io/about/search/
       weight: 40
+    - name: "Minhas Skills"
+      url: https://joaoandreottii.github.io/posts/001-my-first-post/
+      weight: 40
 
 # Disabling the Table of Contents (TOC)
 disableTableOfContents: true
@@ -67,10 +70,3 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
-
-    menu:
-  main:
-    - name: "Minhas Skills"
-      url: "/minhas-skills/"
-      weight: 2
-
