@@ -5,14 +5,15 @@ draft = false
 +++
 
 ### Projeto: Jogo de Parkour
-![Site com Papermode](/images/1%20fase.png)  
-![Site com Papermode](/images/2%20fase.png)  
+![1 Fase](/images/1%20fase.png)  
+![2 Fase](/images/2%20fase.png)  
+![3 Fase](/images/3%20fase.png)  
 *Captura de tela do jogo de parkour em ação.*
 
-### Projeto: Jogo de Parkour
-![Jogo de Parkour](/images/2%20fase.png)  
-*Captura de tela do jogo de parkour em ação.*
+### Projeto: Treino de Academia
+
+
 
 ### Projeto: Painel de Login
-![Painel de Login](/images/3%20fase.png)  
+
 *Interface do painel de login desenvolvido para sites.*
