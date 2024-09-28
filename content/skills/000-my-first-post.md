@@ -18,4 +18,3 @@ Além disso, montei uma tabela de treino para ajudar uma amiga a acompanhar seu 
 
 Sinta-se à vontade para fazer mais ajustes ou incluir as imagens conforme necessário!
 [Meus Projetos](./000-my-first-post.md)
-

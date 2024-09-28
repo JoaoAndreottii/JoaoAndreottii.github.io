@@ -1,4 +1,4 @@
-baseURL: https://joaoandreottii.github.io/
+baseURL: https://JoaoAndreottii.github.io/
 languageCode: en-us
 title: João Andreotti
 theme: ["PaperMod"]
@@ -62,8 +62,6 @@ menu:
     - name: Minhas Skills
       url: /skills/
       weight: 50
-
-
 outputs:
   home:
     - HTML
