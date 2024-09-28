@@ -58,6 +58,10 @@ menu:
       url: /search/
       weight: 40
 
+# Disabling the Table of Contents
+params:
+  disableTableOfContents: true
+
 outputs:
   home:
     - HTML
