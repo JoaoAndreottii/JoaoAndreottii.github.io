@@ -9,11 +9,20 @@
     <lastBuildDate>Sat, 28 Sep 2024 10:42:24 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>⚙️ Meus Projetos</title>
+      <title>⚙️ Fotos Dos Projetos</title>
       <link>http://localhost:1313/posts/000-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
       <guid>http://localhost:1313/posts/000-my-first-post/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;fotos-dos-projetos&#34;&gt;Fotos dos Projetos&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>⚙️ Meus Projetos</title>
+      <link>http://localhost:1313/posts/001-my-first.pod/</link>
+      <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
+      <guid>http://localhost:1313/posts/001-my-first.pod/</guid>
+      <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;
+&lt;p&gt;Meus Projetos em Computação
+Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
