@@ -59,7 +59,8 @@ menu:
       name: Procurar
       url: /search/
       weight: 40
-    - name: Minhas Skills
+    - identifier: skills
+      name: "⚙️Minhas Skills"
       url: /skills/
       weight: 50
 outputs:
