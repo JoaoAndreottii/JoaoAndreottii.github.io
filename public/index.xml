@@ -1,60 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>João Andreotti</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on João Andreotti</description>
-    <generator>Hugo -- 0.134.3</generator>
-    <language>en-us</language>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 28 Sep 2024 10:42:24 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>⚙️ Fotos do Projeto</title>
-      <link>http://localhost:1313/posts/fotos_do_projeto/</link>
+      <link>//localhost:1313/posts/fotos_do_projeto/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>http://localhost:1313/posts/fotos_do_projeto/</guid>
-      <description>&lt;h2 id=&#34;projeto-jogo-de-parkour&#34;&gt;Projeto: Jogo de Parkour&lt;/h2&gt;
-&lt;h3 id=&#34;imagens-dos-projetos&#34;&gt;Imagens dos Projetos&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/1%20fase.png&#34; alt=&#34;Imagem 1&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/2%20fase.png&#34; alt=&#34;Imagem 2&#34;  /&gt;
-
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/3%20fase.png&#34; alt=&#34;Imagem 3&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;projeto-treino-de-academia&#34;&gt;Projeto: Treino de Academia&lt;/h2&gt;
-&lt;h3 id=&#34;imagem-do-projeto&#34;&gt;Imagem Do Projeto&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/treino.png&#34; alt=&#34;Imagem do Treino&#34;  /&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;projeto-tela-de-login&#34;&gt;Projeto: Tela de Login&lt;/h2&gt;
-&lt;h3 id=&#34;imagem-do-projeto-1&#34;&gt;Imagem do Projeto&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/login.png&#34; alt=&#34;Imagem da Tela de Login&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/000-my-first-post/&#34;&gt;Meus Projetos&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/fotos_do_projeto/</guid>
+      <description>&lt;h2 id=&#34;projeto-jogo-de-parkour&#34;&gt;Projeto: Jogo de Parkour&lt;/h2&gt;&#xA;&lt;h3 id=&#34;imagens-dos-projetos&#34;&gt;Imagens dos Projetos&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/1%20fase.png&#34; alt=&#34;Imagem 1&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/2%20fase.png&#34; alt=&#34;Imagem 2&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/images/3%20fase.png&#34; alt=&#34;Imagem 3&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;projeto-treino-de-academia&#34;&gt;Projeto: Treino de Academia&lt;/h2&gt;&#xA;&lt;h3 id=&#34;imagem-do-projeto&#34;&gt;Imagem Do Projeto&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/treino.png&#34; alt=&#34;Imagem do Treino&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;projeto-tela-de-login&#34;&gt;Projeto: Tela de Login&lt;/h2&gt;&#xA;&lt;h3 id=&#34;imagem-do-projeto-1&#34;&gt;Imagem do Projeto&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/login.png&#34; alt=&#34;Imagem da Tela de Login&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//localhost:1313/posts/000-my-first-post/&#34;&gt;Meus Projetos&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚙️Meus Projetos</title>
-      <link>http://localhost:1313/posts/000-my-first-post/</link>
+      <link>//localhost:1313/posts/000-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>http://localhost:1313/posts/000-my-first-post/</guid>
-      <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;
-&lt;p&gt;Meus Projetos em Computação&lt;/p&gt;
-&lt;p&gt;Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/000-my-first-post/</guid>
+      <description>&lt;h2 id=&#34;meus-projetos-em-computação&#34;&gt;Meus Projetos em Computação&lt;/h2&gt;&#xA;&lt;p&gt;Meus Projetos em Computação&lt;/p&gt;&#xA;&lt;p&gt;Nos últimos meses, tenho trabalhado em diversos projetos na área da computação, cada um desafiando minha criatividade e habilidades técnicas. Um dos meus projetos mais empolgantes foi a criação de um site utilizando o framework Papermode. Este framework me permitiu desenvolver uma interface limpa e responsiva, ideal para apresentar informações de forma clara e organizada. O design é moderno e intuitivo, facilitando a navegação dos usuários.&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚙️Minhas Skills</title>
-      <link>http://localhost:1313/posts/001-my-first-post/</link>
+      <link>//localhost:1313/posts/001-my-first-post/</link>
       <pubDate>Sat, 28 Sep 2024 10:42:24 -0300</pubDate>
-      <guid>http://localhost:1313/posts/001-my-first-post/</guid>
-      <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;
-&lt;p&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/p&gt;
-&lt;p&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/001-my-first-post/</guid>
+      <description>&lt;h3 id=&#34;minhas-habilidades&#34;&gt;Minhas Habilidades&lt;/h3&gt;&#xA;&lt;p&gt;Ao longo dos últimos anos, tenho me dedicado ao desenvolvimento de habilidades em várias áreas, tanto acadêmicas quanto profissionais. Atualmente, sou estudante de Ciências da Computação na PUC-PR, o que tem me proporcionado uma base sólida nas áreas de programação, algoritmos e desenvolvimento de software. Além disso, faço cursos online de programação, onde ampliei meu conhecimento e explorei novas tecnologias.&lt;/p&gt;&#xA;&lt;p&gt;Um dos meus principais diferenciais é meu conhecimento em linguagens de programação como Python, C, HTML e CSS, que utilizo para criar soluções criativas e funcionais. Essas linguagens são as bases para meus projetos, tanto acadêmicos quanto pessoais, e me permitem aplicar conceitos de lógica de programação, estrutura de dados e design de interfaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre mim</title>
-      <link>http://localhost:1313/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Sun, 15 Sep 2024 17:36:07 +1200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Página sobre João Otávio Zuliani Andreotti</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;⚙️ Meu nome é João Otávio Zuliani Andreotti e sou estudante de Ciências da Computação na PUC-PR, campus Curitiba. Atualmente, estou no primeiro ano, segundo semestre, explorando o universo fascinante da tecnologia e inovação. Desde jovem, sempre fui apaixonado por jogos e criei servidores personalizados para a galera jogar. Foi nessa experiência que percebi o quanto a programação pode ser poderosa e transformadora, despertando em mim um forte interesse por desenvolvimento de software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arquivo</title>
+      <link>//localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/archive/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Procurando</title>
+      <link>//localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
