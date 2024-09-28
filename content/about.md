@@ -37,6 +37,6 @@ Neste portfólio, você encontrará uma coleção de projetos e experiências qu
 
 Por que escolhi essa área? Além de minha paixão por jogos, sempre acreditei no poder da tecnologia para transformar e melhorar a vida das pessoas. A Ciência da Computação me oferece o caminho perfeito para explorar ideias e materializar soluções que possam impactar positivamente o mundo. No futuro, almejo trabalhar no desenvolvimento de plataformas inovadoras que facilitem a vida cotidiana e, quem sabe, até criar meu próprio negócio na área de tecnologia.
 
-<img src="/fotoo.png" alt="João Otávio Zuliani Andreotti" style="width:50%;">
+![João Otávio Zuliani Andreotti](/fotoo.png)
 
-
+wi
