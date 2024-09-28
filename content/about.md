@@ -1,4 +1,5 @@
 ---
+baseURL: https://JoaoAndreottii.github.io/
 title: "Sobre mim"
 author: "João Andreotti"
 date: 2024-09-15T17:36:07+12:00
