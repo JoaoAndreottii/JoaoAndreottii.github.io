@@ -56,5 +56,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Página sobre João Otávio Zuliani Andreotti</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/skills/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

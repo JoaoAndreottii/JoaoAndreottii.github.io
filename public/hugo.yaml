@@ -59,6 +59,11 @@ menu:
       name: Procurar
       url: /search/
       weight: 40
+    - name: "Minhas Skills"
+      url: "/minhas-skills/"
+      weight: 40
+    # Outros itens...
+
 
 outputs:
   home:
