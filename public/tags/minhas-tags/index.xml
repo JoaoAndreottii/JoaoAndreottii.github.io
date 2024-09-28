@@ -13,7 +13,10 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 15 Sep 2024 17:36:07 +1200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;⚙️ Meu nome é João Otávio Zuliani Andreotti e sou estudante de Ciências da Computação na PUC-PR, campus Curitiba. Atualmente, estou no primeiro ano, segundo semestre, explorando o universo fascinante da tecnologia e inovação. Desde jovem, sempre fui apaixonado por jogos e criei servidores personalizados para a galera jogar. Foi nessa experiência que percebi o quanto a programação pode ser poderosa e transformadora, despertando em mim um forte interesse por desenvolvimento de software.&lt;/p&gt;</description>
+      <description>&lt;p&gt;⚙️ Meu nome é João Otávio Zuliani Andreotti e sou estudante de Ciências da Computação na PUC-PR, campus Curitiba. Atualmente, estou no primeiro ano, segundo semestre, explorando o universo fascinante da tecnologia e inovação.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;fotoo.png&#34; alt=&#34;João Otávio Zuliani Andreotti&#34;  /&gt;
+ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip; (o restante do seu texto)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
